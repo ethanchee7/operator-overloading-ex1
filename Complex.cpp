@@ -1,6 +1,4 @@
 //  Created by Ethan Chee on 2/10/18.
-//  I, Ethan Chee, declare that this work is my own. I did this work honestly and can fully stand behind everything that I have written.
-//  I did not copy code from anyone, student or otherwise.
 //
 //  Copyright © 2018 Ethan Chee. All rights reserved.
 //
